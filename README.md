@@ -1,4 +1,4 @@
-Enzo Moreira Paiao - 32212243
+Enzo Moreira Paiao - 32212243  
 Luiza Andrade Puger - 322127356
 
 # CI/CD Example with Java and GitHub Actions
